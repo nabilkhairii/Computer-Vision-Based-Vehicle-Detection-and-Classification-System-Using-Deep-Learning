@@ -4,4 +4,4 @@ This project aims to develop an automated vehicle detection and classification s
 
 The output of this project is a real time vehicle detection and classification system with high precision, which can be applied to traffic monitoring, intelligent transportation management, vehicle density analysis, road safety systems, and the development of Smart City and Intelligent Transportation System (ITS) solutions.
 
-**Results :** https://youtu.be/0-cYLtFYRLw
+**Results : https://youtu.be/0-cYLtFYRLw**
